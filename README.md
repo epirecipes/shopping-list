@@ -8,7 +8,7 @@ If you have, or have found, a model that you would like considered for inclusion
 
 Please add:
 - An informative title
-- Link to manuscript if available
+- Link to manuscript if available (please use DOIs if possible)
 - Inline code or a link to existing code
 - Add [labels](https://github.com/epirecipes/shopping-list/labels) to the issue as appropriate
 
